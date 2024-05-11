@@ -1,5 +1,9 @@
 title: Akhil Bodi
 logo: /assets/img/Common%20Display%20Picture.jpg
 description: Observer | Learner | Enthusiast
-description: [Twitter](https://twitter.com/AkhilBodi) | [LinkedIn](https://www.linkedin.com/in/akhilbodi/)
+links:
+  - name: Twitter
+    url: https://twitter.com/AkhilBodi
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/akhilbodi/
 theme: jekyll-theme-minimal
