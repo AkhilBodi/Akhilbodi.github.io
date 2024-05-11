@@ -81,4 +81,4 @@ Explored coffee sales data using MS Excel, building an interactive dashboard and
 
 ![Excel Coffee Sales](/assets/img/excel%20coffee%20sales.png)
 
-Connect with me: [Twitter](https://twitter.com/AkhilBodi) | [LinkedIn](https://www.linkedin.com/in/akhilbodi/) | [Mail](bodiakhil@gmail.com)
+Connect with me: [Twitter](https://twitter.com/AkhilBodi)|[LinkedIn](https://www.linkedin.com/in/akhilbodi/)|[Mail](bodiakhil@gmail.com)
