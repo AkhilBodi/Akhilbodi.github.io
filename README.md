@@ -38,11 +38,11 @@ Exploring the financial path, conducted a comprehensive stock analysis of the Ni
 
 ### Web Scraping - Python
 
-[View project](https://github.com/AkhilBodi/My_Projects/tree/main/Stock%20Analysis%20on%20NIFTY%20Top%2010)
+[View project](https://github.com/AkhilBodi/My_Projects/tree/main/Python%20Projects/Web%20Scraping)
 
 Delving into data acquisition, this project allowed me to master BeautifulSoup and Requests in Python, enabling me to collect significant information from websites effectively.
 
-![Web Scraping](https://github.com/AkhilBodi/akhilbodi.github.io/blob/main/assets/img/web%20scraping.jpeg)
+![Web Scraping](https://user-images.githubusercontent.com/54629845/226387626-0b81db88-e3bd-4360-94ea-8ea1ba8823dd.png)
 
 
 ### Covid Dashboard - Tableau
