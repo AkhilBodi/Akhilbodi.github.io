@@ -5,7 +5,8 @@
 ## About Me
 Welcome to my world! Born a rebel in India, I've always questioned the norm, sparking a lifelong passion for unraveling mysteries. With an insatiable curiosity and an unwavering thirst for knowledge, I've embarked on an exhilarating journey of self-discovery and growth.
 
-Join me in my journey as I delve into the vibrant landscape of tech and business, exploring the limitless possibilities that the data world has to offer. From analyzing intricate data patterns to engineering impactful solutions, I've dedicated myself to mastering the art of turning raw information into transformative insights. Working on self to pave the way for an exciting future, filled with innovation and exploration.
+[Join me](https://twitter.com/AkhilBodi/status/1620284498717065216) in my journey as I delve into the vibrant landscape of tech and business, exploring the limitless possibilities that the data world has to offer. From analyzing intricate data patterns to engineering impactful solutions, I've dedicated myself to mastering the art of turning raw information into transformative insights. Working on self to pave the way for an exciting future, filled with innovation and exploration.
+
 
 ## Projects
 ### Covid Data Exploration - SQL
@@ -80,3 +81,4 @@ Explored coffee sales data using MS Excel, building an interactive dashboard and
 
 ![Excel Coffee Sales](/assets/img/excel%20coffee%20sales.png)
 
+Connect with me: [Twitter](https://twitter.com/AkhilBodi) | [LinkedIn](https://www.linkedin.com/in/akhilbodi/) | [Mail](bodiakhil@gmail.com)
