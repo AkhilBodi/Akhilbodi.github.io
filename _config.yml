@@ -2,3 +2,16 @@ title: Akhil Bodi
 logo: /assets/img/Common%20Display%20Picture.jpg
 description: Observer | Learner | Enthusiast
 theme: jekyll-theme-minimal
+url: "http://akhilbodi.github.io"
+twitter_username: AkhilBodi
+github_username:  AkhilBodi
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
