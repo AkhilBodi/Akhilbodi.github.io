@@ -1,5 +1,5 @@
-# Akhil Bodi
-### Curious rebel, fostering exploration. An eternal student, embarking on an everlasting tech and business quest.
+
+## Curious rebel, fostering exploration. An eternal student, embarking on an everlasting tech and business quest.
 
 
 ## About Me
@@ -80,7 +80,3 @@ Explored coffee sales data using MS Excel, building an interactive dashboard and
 
 ![Excel Coffee Sales](/assets/img/excel%20coffee%20sales.png)
 
-Social
-Twitter
-GitHub
-LinkedIn
