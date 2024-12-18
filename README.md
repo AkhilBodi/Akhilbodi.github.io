@@ -3,10 +3,10 @@
 
 
 ## About Me
-Welcome to my world! Born a rebel in India, I've always questioned the norm, sparking a lifelong passion for unraveling mysteries. With an insatiable curiosity and an unwavering thirst for knowledge, I've embarked on an exhilarating journey of self-discovery and growth.
-
-[Join me](https://twitter.com/AkhilBodi/status/1620284498717065216) in my journey as I delve into the vibrant landscape of tech and business, exploring the limitless possibilities that the data world has to offer. From analyzing intricate data patterns to engineering impactful solutions, I've dedicated myself to mastering the art of turning raw information into transformative insights. Working on self to pave the way for an exciting future, filled with innovation and exploration.
-
+Hello world, Welcome to 'my world'!
+Just An Ordinary Man Pursuing Hard Things To Do Something Extraordinary.
+Particularly passionate about Data science, Machine & Deep learning, Mathematics and Physics(Quantum space to be specific).
+[Join me](https://twitter.com/AkhilBodi/status/1620284498717065216) in my journey as I delve into the vibrant landscape of tech and business, exploring the limitless possibilities that the data world has to offer.
 
 ## Projects
 ### Covid Data Exploration - SQL
