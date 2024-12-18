@@ -4,8 +4,11 @@
 
 ## About Me
 Hello world, Welcome to 'my world'!
+
 Just An Ordinary Man Pursuing Hard Things To Do Something Extraordinary.
+
 Particularly passionate about Data science, Machine & Deep learning, Mathematics and Physics(Quantum space to be specific).
+
 [Join me](https://twitter.com/AkhilBodi/status/1620284498717065216) in my journey as I delve into the vibrant landscape of tech and business, exploring the limitless possibilities that the data world has to offer.
 
 ## Projects
