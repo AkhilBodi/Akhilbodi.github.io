@@ -86,4 +86,4 @@ Explored coffee sales data using MS Excel, building an interactive dashboard and
 
 ## Connect with me
 
-[Twitter](https://twitter.com/AkhilBodi) | [LinkedIn](https://www.linkedin.com/in/akhilbodi/)
+[X(Twitter)](https://x.com/AkhilBodi) | [LinkedIn](https://www.linkedin.com/in/akhilbodi/)
